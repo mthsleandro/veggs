@@ -20,8 +20,6 @@ This project took a long time and is not ready yet. It is a website for a fictio
 | Navy Blue | ![#4973cf](https://via.placeholder.com/10/4973cf?text=+) #4973cf |
 | Black | ![#18181b](https://via.placeholder.com/10/18181b?text=+) #18181b |
 | White | ![#e9e9e9](https://via.placeholder.com/10/e9e9e9?text=+) #e9e9e9 |
-| Gray | ![#121212](https://via.placeholder.com/10/121212?text=+) #121212 |
-| Light Gray | ![#eeeeee](https://via.placeholder.com/10/eeeeee?text=+) #eeeeee |
   
 ## Authors
 
